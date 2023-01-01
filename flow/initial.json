@@ -1,0 +1,39 @@
+[
+    {
+        "keywords":  [
+            "stop",
+            "parar",
+            "no mas"        ],
+        "key": "STEP_0"
+    },
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden a crédito",
+            "quisiera saber si venden",
+            "necesito saber"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "videos",
+            "youtube",
+            "musica"        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "info"      ],
+        "key": "STEP_3"
+    }
+]

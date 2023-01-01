@@ -1,0 +1,51 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*Este chat es solo una prueba* \n",
+            "puedes visitar mi Pagina en facebook \n",
+            "https://facebook.com/julianarce.1995 \n",
+            " \n\n",
+            "Tambien tengo un menú de opciones para informarte sobre mis redes \n\n",
+            "Prueba escribiendo Youtube si quieres ver videos  \n"
+        ],
+        "media":"Users/julia/Downloads/logo.jpg",
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            ""
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Hola! y✌️ Bienvenido a este 🤖 CHATBOT de Whatsapp,\n",
+            "mi nombre es *Julian Arce*😎  \n",
+            "\n Si quieres ver mis videos en youtube",
+            "escribe *Youtube* o *info* si quieres ver mi perfil de facebook o instagram y Youtube *"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_2":{
+        "replyMessage":[    
+            "Perfecto, te voy a pasar un video \n\n",
+            "https://youtube.com/shorts/PYF80QxfgmE?feature=share\n"
+        ],
+        "media":"../mediaSend/1670266440751.jpg",     
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[    
+            "Perfecto, Este es mi perfil de instagram \n\n",
+            " https://www.instagram.com/julianarce.95/ \n",
+            "Perfecto, Este es mi canal de Youtube \n",
+            "https://www.youtube.com/@juliandavidarcearaujo2925/videos",
+            "puedes visitar mi sitio en facebook \n",
+            "https://facebook.com/julianarce.1995 \n"
+        ],
+        "media":"../mediaSend/JulianArce.jpg",     
+        "trigger":null
+    }
+}
