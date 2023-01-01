@@ -193,12 +193,14 @@ client.on('authenticated', () => {
     console.log('AUTHENTICATED');
 });
 
-<<<<<<< HEAD
+client.initialize();
+
+/*<<<<<<< HEAD
     client.initialize();
 =======
 client.initialize();
 
->>>>>>> 0e111b2bb768b06056f8326517f165b201a72de4
+>>>>>>> 0e111b2bb768b06056f8326517f165b201a72de4*/
 /**
  * Verificamos si tienes un gesto de db
  */
